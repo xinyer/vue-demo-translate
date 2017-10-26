@@ -2,6 +2,8 @@
 
 > vue learning demo
 
+> https://ke.qq.com/course/227593
+
 ## Build Setup
 
 ``` bash
